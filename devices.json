@@ -1,0 +1,32 @@
+[
+    {
+        "name": "US - Living Room",
+        "id": "eb02f89c465dccc56cr3pr",
+        "key": "`NC|hy?arE;$]{=E",
+        "mac": "d8:d6:68:b1:db:1a",
+        "uuid": "1edc7c77c31a0f03",
+        "sn": "10013555500232",
+        "category": "co2bj",
+        "product_name": "AIR_DETECTOR ",
+        "product_id": "yrr3eiyiacm31ski",
+        "biz_type": 18,
+        "model": "",
+        "sub": false,
+        "icon": "https://images.tuyaus.com/smart/icon/bay16345249392367NnR/c945428435e0f2cc5d8e17b8cdfbc47b.png"
+    },
+    {
+        "name": "US - Living Room 2",
+        "id": "eba982d8e3ee13b9a3ukzz",
+        "key": "^Y1{S#Yth_=F~nJJ",
+        "mac": "d8:d6:68:b1:d7:65",
+        "uuid": "696d14f1d7f82d19",
+        "sn": "100135555001C9",
+        "category": "co2bj",
+        "product_name": "AIR_DETECTOR ",
+        "product_id": "yrr3eiyiacm31ski",
+        "biz_type": 18,
+        "model": "",
+        "sub": false,
+        "icon": "https://images.tuyaus.com/smart/icon/bay16345249392367NnR/c945428435e0f2cc5d8e17b8cdfbc47b.png"
+    }
+]
